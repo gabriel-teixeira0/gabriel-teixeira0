@@ -6,9 +6,7 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas pela UNIFACS - 1° Semestre.
 - Salvador/BA
-- Linguagens: Java
-- Linkedin: https://www.linkedin.com/in/gabriel-teixeira-andrade/
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="90" height="90"  />
+- <a href="https://www.linkedin.com/in/gabriel-teixeira-andrade/" rel="Linkedin">Linkedin</a>
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
           
           
